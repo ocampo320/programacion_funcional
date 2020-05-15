@@ -1,0 +1,13 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8¥âÎŸ.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(øË¬•8Ş—Ÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±Ğ²èıÿÿÿÿ8ÆÊ˜Ÿ.
+R
+java:S1611"5Remove the parentheses around the "usuario" parameter(µÂ˜8âŠ£Ÿ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°Èµ•8®¸µŸ.
+I
+java:S1602",Remove useless curly braces around statement(µÂ˜8ÆÊ˜Ÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œ×·éøÿÿÿÿ8š´Ÿ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡‡¿·8êõÖŸ.
+h
+java:S1192	"FDefine a constant instead of duplicating this literal "deibi" 3 times.(Óóóèüÿÿÿÿ8ĞæºŸ.
